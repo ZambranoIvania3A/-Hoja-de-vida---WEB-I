@@ -1,0 +1,36 @@
+
+/* Este archivo de estilo define la apariencia visual de la página HTML */
+/* Estilos de la referencias personales*/
+table, th,td{
+    border: 1px solid rgb(82, 11, 48);
+}
+/* Estilos del fondo color del cuerpo de la página */
+body{
+    background-color:rgb(250, 250, 251) ;
+}
+/* Estilos generales para los cuadros de cada seccion */
+div{
+    border: 2px solid rgb(186, 98, 146);
+}
+hr{
+    border: 1px solid rgb(47, 5, 17);
+}
+/* Estilos generales para los titulos de cada seccion*/
+h2{
+    color:rgb(0, 0, 0); background-color:rgb(231, 140, 213) ;
+}
+/* Estilo para el titulo principal*/
+h1{
+    color:rgb(17, 17, 17);
+}
+/* Estilo para las imágen*/
+img{
+    border: 4px solid  rgb(255, 255, 255);
+    border-radius: 5%;
+    width:100px; height: auto;
+}
+/* Estilo para las referencias personales*/
+table{
+    color: rgb(19, 19, 19);  background-color:rgb(167, 121, 175) ;
+}   
+
